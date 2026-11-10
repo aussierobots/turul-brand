@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "bird": "turul-bird-mark.png",
+  "rights": "ARTWORK-NOTICE.md",
+  "projects": {
+    "mcp": {
+      "label": "MCP",
+      "repository": "aussierobots/turul-mcp-framework"
+    },
+    "a2a": {
+      "label": "A2A",
+      "repository": "aussierobots/turul-a2a"
+    },
+    "llm": {
+      "label": "LLM",
+      "repository": "aussierobots/turul-llm"
+    },
+    "agent-skills": {
+      "label": "AGENT SKILLS",
+      "repository": "aussierobots/turul-agent-skills"
+    },
+    "rpc": {
+      "label": "RPC",
+      "repository": "aussierobots/turul-rpc"
+    },
+    "jwt": {
+      "label": "JWT",
+      "repository": "aussierobots/turul-jwt-validator"
+    }
+  }
+}
